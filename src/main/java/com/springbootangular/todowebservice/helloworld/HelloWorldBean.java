@@ -1,4 +1,4 @@
-package com.springbootangular.todowebservice;
+package com.springbootangular.todowebservice.helloworld;
 
 public class HelloWorldBean {
 
