@@ -36,8 +36,10 @@ public class Todo {
         return Objects.hash(id);
     }
 
-    public Long getId() {
-        return id;
+    public long getId() {
+        if(id != null)
+            return id;
+        return 0;
     }
 
     public void setId(Long id) {
