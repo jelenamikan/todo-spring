@@ -1,4 +1,4 @@
-package com.springbootangular.todowebservice.basic.auth;
+package com.springbootangular.basic.auth;
 
 public class BasicAuthBean {
 
